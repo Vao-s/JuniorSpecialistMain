@@ -1,0 +1,9 @@
+﻿namespace TypeConversionTest.cs
+{
+    class Person
+    {
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+    }
+
+}
