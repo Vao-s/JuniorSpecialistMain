@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\bin\Debug\netcoreapp3.1\Library.exe
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\bin\Debug\netcoreapp3.1\OOPTest.exe
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\bin\Debug\netcoreapp3.1\OOPTest.deps.json
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\bin\Debug\netcoreapp3.1\OOPTest.runtimeconfig.json
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\bin\Debug\netcoreapp3.1\OOPTest.runtimeconfig.dev.json
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\bin\Debug\netcoreapp3.1\OOPTest.dll
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\bin\Debug\netcoreapp3.1\OOPTest.pdb
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\obj\Debug\netcoreapp3.1\OOPTest.csprojAssemblyReference.cache
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\obj\Debug\netcoreapp3.1\OOPTest.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\obj\Debug\netcoreapp3.1\OOPTest.AssemblyInfo.cs
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\obj\Debug\netcoreapp3.1\OOPTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\obj\Debug\netcoreapp3.1\OOPTest.csproj.CopyComplete
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\obj\Debug\netcoreapp3.1\OOPTest.dll
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\obj\Debug\netcoreapp3.1\OOPTest.pdb
+C:\Users\User\Desktop\JuniorSpecialist\OOPTest\obj\Debug\netcoreapp3.1\OOPTest.genruntimeconfig.cache

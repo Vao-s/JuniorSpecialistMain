@@ -1,12 +1,13 @@
-﻿namespace OOPTest
+﻿namespace Library
 {
-    internal abstract class Figure
+    public abstract partial class Figure
     {
         public string Color { get; private set; }
+
         public Figure(string color)
         {
             Color = color;
         }
-        public abstract void PrintInfo();
+        public abstract double Area();
     }
 }
